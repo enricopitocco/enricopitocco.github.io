@@ -28,9 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student | Brain, Mind and computer science"
   location         : #"Earth"
-  employer: |
-  Università degli studi di
-  Padova
+  employer         : "Padova"
   uri              : # URL
   email            : "enrico.pitocco@phd.unipd.it"
 
