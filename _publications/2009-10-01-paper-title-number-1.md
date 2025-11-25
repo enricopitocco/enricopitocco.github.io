@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Exploring the classical and numerical Delboeuf illusion: the impact of transcranial alternating current stimulation on magnitude processing"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: https://doi.org/10.7717/peerj.19064
+excerpt: ''
+date: 2025
+venue: 'PeerJ'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
