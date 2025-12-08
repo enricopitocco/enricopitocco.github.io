@@ -8,11 +8,10 @@ redirect_from:
 
 ## Background
 
-I am a PhD student in Brain, Mind and Computer Science at Università degli studi di Padova. My research focuses on understanding the neural mechanisms underlying cognition and behavior.
+I am a PhD student in Brain, Mind and Computer Science at Università degli studi di Padova. My research focuses on understanding the neural mechanisms underlying cognition and behavior, specifically in the field of visual neuroscience and psychophysics.
 
 ## Research Interests
-
-My work explores the intersection of neuroscience and computational methods, investigating how the brain processes information and gives rise to complex cognitive functions.
+My work focuses on low-level vision mechanisms. More specifically, my phd project explores the spatio-temporal integration mechanisms of visual information from past input to current perception.
 
 ## Education
 
