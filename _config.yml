@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Enrico Pitocco"
 title_separator          : "-"
 name                     : &name "Enrico Pitocco"
@@ -21,7 +21,7 @@ author:
   avatar           : "profile.png"
   name             : "Phd student | Brain, Mind and Computer Science"
   pronouns         :
-  bio              : "Phd student in Brain, Mind and Computer Science at Università degli studi di Padova."
+  bio              : ""
   location         : "Padova, Italy"
   employer         : "Università degli studi di Padova"
   uri              :
@@ -54,7 +54,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/enrico-pitocco-a629aa209"
   mastodon         :
   medium           :
   pinterest        :
