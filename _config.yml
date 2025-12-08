@@ -13,9 +13,9 @@ title                    : "Enrico Pitocco"
 title_separator          : "-"
 name                     : &name "Enrico Pitocco"
 description              : &description "Enrico Pitocco's academic portfolio"
-url                      : https://academicpages.github.io
+url                      : https://enricopitocco.github.io
 baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
+repository               : "enricopitocco/enricopitocco.github.io"
 
 author:
   avatar           : "profile.png"
