@@ -16,9 +16,11 @@ My work explores the intersection of neuroscience and computational methods, inv
 
 ## Education
 
-**PhD in Brain, Mind and Computer Science**  
+**PhD in Brain, Mind and Computer Science** (Current)  
 Università degli studi di Padova, Italy
 
 ## Contact
 
 Feel free to reach out if you're interested in collaboration or have questions about my research.
+
+- Email: enrico.pitocco@phd.unipd.it
