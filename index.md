@@ -1,7 +1,7 @@
 ---
 layout: archive
 author_profile: true
-title: "Welcome"
+title: "Enrico Pitocco"
 ---
 
 Welcome to my academic portfolio website! I am a PhD student in Brain, Mind and Computer Science at Università degli studi di Padova, focusing on neuroscience and computational approaches to understanding cognition.
