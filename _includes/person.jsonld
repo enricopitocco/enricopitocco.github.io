@@ -1,0 +1,32 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name | default: site.name }}",
+  "url": {{ site.url | default: "" | jsonify }},
+  {% capture sa %}
+  [
+  {% assign first = true %}
+  {% if site.author.orcid %}
+    {% unless first == false %}{% assign first = false %}{% endunless %}{{ site.author.orcid | jsonify }}
+  {% endif %}
+  {% if site.author.github %}
+    {% if first == false %}, {% endif %}{{ "https://github.com/" | append: site.author.github | jsonify }}
+    {% assign first = false %}
+  {% endif %}
+  {% if site.author.linkedin %}
+    {% if first == false %}, {% endif %}{{ site.author.linkedin | jsonify }}
+    {% assign first = false %}
+  {% endif %}
+  {% if site.author.googlescholar %}
+    {% if first == false %}, {% endif %}{{ site.author.googlescholar | jsonify }}
+    {% assign first = false %}
+  {% endif %}
+  {% if site.author.orcid == nil and site.author.github == nil and site.author.linkedin == nil and site.author.googlescholar == nil %}
+    {{ "" | jsonify }}
+  {% endif %}
+  ]
+  {% endcapture %}
+  "sameAs": {{ sa | strip_newlines | replace: '[""]', '[]' }}
+}
+</script>
