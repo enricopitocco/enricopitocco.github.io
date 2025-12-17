@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://enricopitocco.github.io/sitemap.xml
