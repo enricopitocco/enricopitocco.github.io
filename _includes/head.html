@@ -4,6 +4,9 @@
 
 {% include seo.html %}
 
+{% comment %} Inject explicit Person JSON-LD built from site.author data {% endcomment %}
+{% include person.jsonld %}
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
