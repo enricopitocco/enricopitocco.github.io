@@ -22,12 +22,6 @@ To run the site locally:
 
 ```bash
 bundle install
-jekyll serve -l -H localhost
-```
-
-Or with bundle exec:
-
-```bash
 bundle exec jekyll serve -l -H localhost
 ```
 
@@ -36,7 +30,7 @@ bundle exec jekyll serve -l -H localhost
 The repository includes Docker support. To run with Docker:
 
 ```bash
-chmod -R 777 .  # Note: Only for local development. Grants full permissions for Docker container access.
+chmod -R 777 .  # Required for Docker container file access on some systems
 docker compose up
 ```
 
