@@ -69,4 +69,8 @@ author:
   xing             :
   youtube          :
   zhihu            :
+
+# Reading Files
+include: ["_pages"]
+
 # The rest of the configuration stays unchanged
