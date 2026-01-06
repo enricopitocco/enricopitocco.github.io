@@ -9,7 +9,7 @@ Welcome to my academic portfolio website! I am a PhD student in Brain, Mind and 
 
 ## Research Interests
 
-My work focuses on low-level vision mechanisms. More specifically, my phd project explores the spatio-temporal integration mechanisms of visual information from past input to current perception.
+My work focuses on low-level visual mechanisms, on the spatio-temporal integration mechanisms of  visual information over time. More specifically, my work explores more in-depth priming-like mechanisms in visual search and serial dependence and aim to test whether these phenomena are different manifestations of a common underlying mechanism.
 
 ## Explore My Work
 
