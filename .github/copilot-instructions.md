@@ -11,7 +11,7 @@ This is a Jekyll-based static site for an academic portfolio, including publicat
 - **Static Site Generator**: Jekyll (Ruby-based)
 - **Hosting**: GitHub Pages
 - **Theme**: Academic Pages (forked from Minimal Mistakes)
-- **JavaScript Dependencies**: jQuery, FitVids, Plotly.js
+- **JavaScript Dependencies**: jquery, fitvids, jquery-smooth-scroll, plotly.js-dist-min
 - **Package Management**: Bundler (Ruby), npm (JavaScript)
 
 ## Build and Development
@@ -36,7 +36,7 @@ bundle exec jekyll serve -l -H localhost
 The repository includes Docker support. To run with Docker:
 
 ```bash
-chmod -R 777 .
+chmod -R 777 .  # Note: Only for local development. Grants full permissions for Docker container access.
 docker compose up
 ```
 
@@ -104,7 +104,7 @@ npm run build:js
 
 Before committing changes:
 
-1. Test locally with `jekyll serve -l -H localhost`
+1. Test locally with `bundle exec jekyll serve -l -H localhost`
 2. Verify all pages render correctly
 3. Check that navigation and links work
 4. Ensure responsive design works on different screen sizes
