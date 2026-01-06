@@ -9,7 +9,7 @@ Welcome to my academic portfolio website!
 
 I am a PhD student in Brain, Mind and Computer Science at Università degli studi di Padova. My research focuses on understanding the neural mechanisms underlying cognition and behavior, specifically in the field of visual neuroscience and psychophysics.
 
-##Research Interests
+## Research Interests
 My work focuses on low-level vision mechanisms. More specifically, my phd project explores the spatio-temporal integration mechanisms of visual information from past input to current perception.
 
 ## Explore My Work
