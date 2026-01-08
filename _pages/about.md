@@ -22,10 +22,10 @@ My current work focuses on low-level vision mechanisms. More specifically, my ph
 **PhD in Brain, Mind and Computer Science** (Current)  
 Università degli studi di Padova, Italy
 
-**Master's degree in Neuroscience and Clinical Neuropsychology**
+**Master's degree in Neuroscience and Clinical Neuropsychology**    
 Università degli studi di Padova, Italy
 
-**Bachelor's degree in Cognitive Psychology**
+**Bachelor's degree in Cognitive Psychology**   
 Università degli studi di Trento, Italy
 
 ## Contact
