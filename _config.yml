@@ -23,7 +23,7 @@ repository               : "enricopitocco/enricopitocco.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1738656834280(1).jfif"
+  avatar           : "profile.png"
   name             : "Phd student | Brain, Mind and Computer Science"
   pronouns         : # example: "she/her"  
   bio              : ""
