@@ -3,7 +3,7 @@ title: "Exploring the classical and numerical Delboeuf illusion: the impact of t
 collection: publications
 category: manuscripts
 permalink: /publication/2025-11-24-Exploring-the-classical-and-numerical-Delboeuf-illusion-the-impact-of-transcranial-alternating-current-stimulation-on-magnitude-processing
-excerpt: 'This study investigates how transcranial alternating current stimulation affects magnitude processing in both classical and numerical Delboeuf illusions.'
+excerpt: ''
 date: 2025-11-24
 venue: 'PeerJ'
 slidesurl: ''
