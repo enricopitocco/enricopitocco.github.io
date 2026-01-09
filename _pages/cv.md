@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Brain, Mind and Computer Science (current)
+* M.S. in Neuroscience and Clinical Neuropsychology, Università degli studi di Padova, 2023
+* B.S. in Cognitive Psychology, Università degli studi di Trento, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* [15/09/2024-20/04/2025] Psychology Trainee
+  * IRCSS Fondazione Santa Lucia - Laboratory of Neuropsychiatry, Rome, Italy
+  * Duties includes: Clinical evaluations, testing; MRI and clinical data management and analysis.
+  * Supervisor: Dr. Nerisa Banaj
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [30/01/2024 - 30/08/2024]: Research Intern
+  * University of Coimbra - ProAction Lab, Coimbra, Portugal
+  * Duties included: fMRI data management and pre-processing; assisting with task development.
+  * Supervisor: Professor Jorge Almeida
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [01/03/2023 - 01/11/2023] Research Intern
+  * Università degli studi di Padova - Laboratory of Vision,  Padova, Italy
+  * Duties included: Data collection, management and analysis; scientific papers drafting and reviewing, experimental task development; tES administration.
+  * Supervisor: Professor Luca Battaglini.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English language Proficiency
+* SPM basic user (Matlab)
+* Cat12 basic user (Matlab)
+* SEPIA basic user (Matlab)
+* Psychtoolbox basic user (Matlab)
+* R, Rstudio
 
 Publications
 ======
@@ -59,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
