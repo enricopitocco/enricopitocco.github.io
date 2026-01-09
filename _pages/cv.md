@@ -22,7 +22,7 @@ Work experience
   * Duties includes: Clinical evaluations, testing; MRI and clinical data management and analysis.
   * Supervisor: Dr. Nerisa Banaj
 
-* [30/01/2024 - 30/08/2024]: Research Intern
+* [30/01/2024 - 30/08/2024] Research Intern
   * University of Coimbra - ProAction Lab, Coimbra, Portugal
   * Duties included: fMRI data management and pre-processing; assisting with task development.
   * Supervisor: Professor Jorge Almeida
