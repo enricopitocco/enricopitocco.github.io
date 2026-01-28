@@ -1,7 +1,7 @@
 ---
 layout: archive
 author_profile: true
-title: "Welcome"
+title: ""
 description: "Enrico Pitocco — PhD student at the University of Padova. Researcher in neuroscience and computational approaches to cognition. Publications, talks, teaching, and CV."
 ---
 
