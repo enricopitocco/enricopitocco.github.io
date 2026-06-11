@@ -15,7 +15,7 @@ My academic journey includes a Master's degree in Neuroscience and Clinical Neur
 As a research intern at the University of Coimbra, I focused on neuroimaging techniques with a focus on visual perception. Afterwards, I completed an internship at the Neuropsychiatry Laboratory at Fondazione Santa Lucia, where I contributed to clinical work and research on neurodegenerative and psychiatric disorders. This experience provided me with clinical diagnostic skills and MRI-based research methods, and was essential for obtaining my psychologist license, which I earned after successfully passing the qualifying exam.
 
 ## Research Interests
-My current work focuses on low-level visual mechanisms. More specifically, my phd project explores the influence of recent visual history on current perception. More specifically, my work explores more in-depth how recent visual history affect performance in visual search and the relationship between past input and deployment of visual attention in space.
+My current work focuses on low-level visual mechanisms. My phd project explores the influence of recent visual history on current perception, with a focus on how recent visual history affect performance in visual search and the relationship between past input and deployment of visual attention across space.
 
 ## Education
 
